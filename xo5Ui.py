@@ -29,7 +29,7 @@ def run():
 
     window = cmds.window(
         'xo5Game',
-        title='XO 5x5 Game (vs AI)',
+        title='XOMI',
         sizeable=False,
         minimizeButton=False,
         maximizeButton=False,
